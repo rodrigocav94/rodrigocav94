@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Estes são os meus projetos listados do mais recente no topo até o mais antigo em baixo:
 
-# Rato-de-Biblioteca
+# [Rato-de-Biblioteca](https://github.com/rodrigocav94/Rato-de-Biblioteca)
 Um aplicativo para rastrear quais livros o usuário leu e o que achou deles. Utiliza CoreData para gerenciar os objetos em um banco de dados.
 Foi criado um componente de interface personalizado, um widget de classificação por estrelas, onde o usuário pode tocar para determinar a pontuação de um livro.
 
