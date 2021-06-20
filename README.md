@@ -4,6 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 Estes são os meus projetos listados do mais recente no topo até o mais antigo em baixo:
 
+# [FriendFace](https://github.com/rodrigocav94/FriendFace)
+Um aplicativo que recebe dados da internet utilizando API Rest, decodifica e armazena os dados recebidos em um banco de dados Core Data e os exibe em detalhes.
+
+![Alt Text](https://github.com/rodrigocav94/FriendFace/blob/main/friendFaceTela.gif)
+
+
 # [Rato-de-Biblioteca](https://github.com/rodrigocav94/Rato-de-Biblioteca)
 Um aplicativo para rastrear quais livros o usuário leu e o que achou deles. Utiliza CoreData para gerenciar os objetos em um banco de dados.
 Foi criado um componente de interface personalizado, um widget de classificação por estrelas, onde o usuário pode tocar para determinar a pontuação de um livro.
