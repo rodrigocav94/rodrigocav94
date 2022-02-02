@@ -10,6 +10,7 @@ It contains unit and interface tests and all it's interface features are compone
 
 ![Alt Text](https://github.com/rodrigocav94/Empresas/blob/main/UITestSample.gif)
 
+
 # [FriendFace](https://github.com/rodrigocav94/FriendFace)
 Um aplicativo que recebe dados da internet utilizando API Rest, decodifica e armazena os dados recebidos em um banco de dados Core Data e os exibe em detalhes.
 
