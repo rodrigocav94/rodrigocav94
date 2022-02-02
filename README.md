@@ -4,6 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 Estes são os meus projetos listados do mais recente no topo até o mais antigo em baixo:
 
+# [Empresas](https://github.com/rodrigocav94/FriendFace)
+Prototype app made in SwiftUI that performs login and search API calls through URLSession.
+It contains unit and interface tests and all it's interface features are componentized.
+
+![Alt Text](https://github.com/rodrigocav94/Empresas/blob/main/UITestSample.gif)
+
 # [FriendFace](https://github.com/rodrigocav94/FriendFace)
 Um aplicativo que recebe dados da internet utilizando API Rest, decodifica e armazena os dados recebidos em um banco de dados Core Data e os exibe em detalhes.
 
