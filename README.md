@@ -127,18 +127,3 @@ Um aplicativo que desafia o usuário a um jogo de pedra, papel e tesoura.
 Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a identificar diversas bandeiras do mundo.
 
 ![Alt Text](https://github.com/rodrigocav94/AdivinheABandeira/blob/main/AdivinheABandeira.gif?raw=true)
-
-
-
- # [Conversor](https://github.com/rodrigocav94/Conversor)
- Conversor de Escalas Termométricas (Celsius x Fahrenheit x Kelvin). Permite inserir um valor e convertê-lo entre diferentes escalas.
-
- ![Alt Text](https://github.com/rodrigocav94/Conversor/blob/main/conversor.gif)
-
-
-
- # [Comandona](https://github.com/rodrigocav94/Comandona)
- Aplicativo de divisão de comandas que o usuário pode utilizar após comer em um restaurante com seus amigos. Permite inserir o custo de uma comanda, selecionar o quanto deseja deixar de gorjeta e com quantas pessoas deseja dividir. O aplicativo calculará quanto cada pessoa deverá pagar.
-
-
- ![Alt Text](https://github.com/rodrigocav94/Comandona/blob/main/comandona.gif)
