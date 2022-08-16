@@ -2,9 +2,13 @@
 rodrigocav94/rodrigocav94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# Olá/Hello/こんにちは!
+
+I'm Rodrigo, an iOS Developer from Brazil with a passion for solving problems and learning new things.
+
 
 <details>
-<summary>SwiftUI Portfolios</summary>
+<summary>SwiftUI & Combine Portfolio</summary>
 <br>
   
 These are my projects listed from most recent at the top to oldest at the bottom:
