@@ -2,7 +2,12 @@
 rodrigocav94/rodrigocav94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Estes são os meus projetos listados do mais recente no topo até o mais antigo em baixo:
+
+<details>
+<summary>SwiftUI Portfolios</summary>
+<br>
+  
+These are my projects listed from most recent at the top to oldest at the bottom:
 
 # [Empresas](https://github.com/rodrigocav94/Empresas)
 Prototype app made in SwiftUI that performs login and search API calls through URLSession.
@@ -127,3 +132,6 @@ Um aplicativo que desafia o usuário a um jogo de pedra, papel e tesoura.
 Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a identificar diversas bandeiras do mundo.
 
 ![Alt Text](https://github.com/rodrigocav94/AdivinheABandeira/blob/main/AdivinheABandeira.gif?raw=true)
+
+  
+</details>
