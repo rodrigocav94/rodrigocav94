@@ -2,23 +2,28 @@
 rodrigocav94/rodrigocav94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Olá/Hello/こんにちは!
 
-I'm Rodrigo, an iOS Developer from Brazil with a passion for solving problems and learning new things.
+<h1 align='center'>
+ Olá/Hello/こんにちは! 👋
+</h1>
 
+<p align='center'>
+  I'm Rodrigo, an iOS Developer from Brazil with a passion for solving problems and learning new things.
+</p>
+
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/rodrigocav94/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 <details>
-<summary>SwiftUI & Combine Portfolio</summary>
+<summary>📱 SwiftUI & Combine Portfolio</summary>
 <br>
-  
-These are my projects listed from most recent at the top to oldest at the bottom:
-
-# [Empresas](https://github.com/rodrigocav94/Empresas)
-Prototype app made in SwiftUI that performs login and search API calls through URLSession.
-It contains unit and interface tests and all it's interface features are componentized.
-
-![Alt Text](https://github.com/rodrigocav94/Empresas/blob/main/UITestSample.gif)
-
 
 # [FriendFace](https://github.com/rodrigocav94/FriendFace)
 Um aplicativo que recebe dados da internet utilizando API Rest, decodifica e armazena os dados recebidos em um banco de dados Core Data e os exibe em detalhes.
