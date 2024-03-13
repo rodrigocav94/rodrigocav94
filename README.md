@@ -160,11 +160,10 @@ https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/22e7d4dc-6b34-4db9-
 
 # [StormViewer](https://github.com/rodrigocav94/StormViewer)
 
-A user-friendly app allowing easy browsing of National Severe Storms Laboratory images, enabling users to select and view their preferred images.
+A user-friendly app allowing easy browsing of National Severe Storms Laboratory images, enabling users to select, view and share their preferred images.
 <br>
 Technologies: Storyboards
 
 
-
-https://github.com/rodrigocav94/StormViewer/assets/58222390/110818fb-6532-477b-8e5e-7594b138d3f1
+https://github.com/rodrigocav94/StormViewer/assets/58222390/3c09a859-2578-4b7b-9e05-71be6b491e5f
 </details>
