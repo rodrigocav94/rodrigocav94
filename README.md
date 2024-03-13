@@ -150,8 +150,9 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 # [GuessTheFlag](https://github.com/rodrigocav94/GuessTheFlag)
 
 A simple and engaging game where users identify flags displayed on the screen. Receive instant feedback on your guesses and track your progress with a clear score and round counter on the navigation bar.
-<br>
-Technologies: Storyboards
+
+
+Technologies: Interface Builder, Auto Layout, Outlet, @2x and @3x images, Asset Catalog, UIButton, CALayer, UIColor, random numbers, actions, UIAlertController.
 
 
 https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/22e7d4dc-6b34-4db9-b11e-66d56e8e742f
@@ -161,8 +162,9 @@ https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/22e7d4dc-6b34-4db9-
 # [StormViewer](https://github.com/rodrigocav94/StormViewer)
 
 A user-friendly app allowing easy browsing of National Severe Storms Laboratory images, enabling users to select, view and share their preferred images.
-<br>
-Technologies: Storyboards
+
+
+Technologies: Table View, Image View, App Bundle, FileManager, Typecasting, View controller, Outlet, Auto Layout, UIImage, UIBarButtonItem, UIActivityViewController.
 
 
 https://github.com/rodrigocav94/StormViewer/assets/58222390/3c09a859-2578-4b7b-9e05-71be6b491e5f
