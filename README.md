@@ -155,7 +155,7 @@ A simple and engaging game where users identify flags displayed on the screen. R
 Technologies: Interface Builder, Auto Layout, Outlet, @2x and @3x images, Asset Catalog, UIButton, CALayer, UIColor, random numbers, actions, UIAlertController.
 
 
-https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/22e7d4dc-6b34-4db9-b11e-66d56e8e742f
+https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/d594e8ca-b898-4c89-bba8-c7a4c0dc83e3
 
 
 
