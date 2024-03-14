@@ -147,6 +147,17 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Portfolio</summary>
 
+# [FlagCatalog](https://github.com/rodrigocav94/FlagCatalog)
+
+Discover flags from around the world with FlagCatalog. Easily view, save, and share flags in full size with a simple tap.
+
+
+Technologies: Interface Builder, Auto Layout, Outlet, UIAlertController, JSONDecoder.
+
+https://github.com/rodrigocav94/FlagCatalog/assets/58222390/b677f907-70e0-4845-803c-f7c8cf2d5197
+
+
+
 # [GuessTheFlag](https://github.com/rodrigocav94/GuessTheFlag)
 
 A simple and engaging game where users identify flags displayed on the screen. Receive instant feedback on your guesses and track your progress with a clear score and round counter on the navigation bar.
