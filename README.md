@@ -147,6 +147,18 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Portfolio</summary>
 
+# [AutoLayout](https://github.com/rodrigocav94/AutoLayout)
+An app designed for practicing Auto Layout by utilizing both Visual Formatting Language and Anchors.
+
+Technologies:
+Equal height, Aspect Ratio constraints, Visual Formatting Language, Anchors
+
+
+
+https://github.com/rodrigocav94/AutoLayout/assets/58222390/040d4191-c503-488e-a7e4-ae4309993857
+
+
+
 # [WordScramble](https://github.com/rodrigocav94/WordScrambleUIKit/tree/main)
 
 In this game, players must create anagrams using letters from a given keyword. Each submitted answer undergoes checks to ensure it has a minimum of 3 letters, is valid according to the dictionary, and differs from the keyword itself.
