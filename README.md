@@ -147,6 +147,19 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Portfolio</summary>
 
+# [EasyGrocery](https://github.com/rodrigocav94/EasyGrocery/tree/main)
+
+A compact app designed for organizing your grocery list.
+
+Technologies: UITableViewController, Text fields in Alerts, UIAlertController, Animations for reloading table views and Inserting rows.
+
+
+
+https://github.com/rodrigocav94/EasyGrocery/assets/58222390/d96c11ed-6806-49cb-950a-2d555d4a9527
+
+
+
+
 # [AutoLayout](https://github.com/rodrigocav94/AutoLayout)
 An app designed for practicing Auto Layout by utilizing both Visual Formatting Language and Anchors.
 
