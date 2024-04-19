@@ -147,7 +147,18 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Portfolio</summary>
 
-# [EasyGrocery](https://github.com/rodrigocav94/EasyGrocery/tree/main)
+# [WhitehousePetitions](https://github.com/rodrigocav94/WhitehousePetitions)
+
+This app takes a JSON feed and parse it into useful information for users. Specifically, it focuses on "We the People" White House petitions in the U.S.A., where citizens can submit requests, and others can vote on it.
+
+Technologies: JSON, JSONDecoder, Data, Codable, UITabBarController, UIStoryboard, HTML, UISearchController
+
+https://github.com/rodrigocav94/WhitehousePetitions/assets/58222390/a74c81bb-e796-411f-90e5-5afb3be035ee
+
+
+
+
+# [EasyGrocery](https://github.com/rodrigocav94/EasyGrocery)
 
 A compact app designed for organizing your grocery list.
 
@@ -172,7 +183,7 @@ https://github.com/rodrigocav94/AutoLayout/assets/58222390/040d4191-c503-488e-a7
 
 
 
-# [WordScramble](https://github.com/rodrigocav94/WordScrambleUIKit/tree/main)
+# [WordScramble](https://github.com/rodrigocav94/WordScrambleUIKit)
 
 In this game, players must create anagrams using letters from a given keyword. Each submitted answer undergoes checks to ensure it has a minimum of 3 letters, is valid according to the dictionary, and differs from the keyword itself.
 
