@@ -147,6 +147,16 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Portfolio</summary>
 
+# [SwiftyWords](https://github.com/rodrigocav94/SwiftyWords)
+
+iPad word game, inspired by the popular indie game 7 Little Words. Solve puzzles by using a series of hints and a grid of letters to form the correct words.
+
+Technologies: Anchors, Programmatic Autolayout, addTarget(), enumerated(), joined(), replacingOccurrences()
+
+https://github.com/rodrigocav94/SwiftyWords/assets/58222390/c83f2d00-c04d-4ac2-8074-d50499d84398
+
+
+
 # [WhitehousePetitions](https://github.com/rodrigocav94/WhitehousePetitions)
 
 This app takes a JSON feed and parse it into useful information for users. Specifically, it focuses on "We the People" White House petitions in the U.S.A., where citizens can submit requests, and others can vote on it.
@@ -154,7 +164,6 @@ This app takes a JSON feed and parse it into useful information for users. Speci
 Technologies: JSON, JSONDecoder, Data, Codable, UITabBarController, UIStoryboard, HTML, UISearchController
 
 https://github.com/rodrigocav94/WhitehousePetitions/assets/58222390/a74c81bb-e796-411f-90e5-5afb3be035ee
-
 
 
 
@@ -167,7 +176,6 @@ Technologies: UITableViewController, Text fields in Alerts, UIAlertController, A
 
 
 https://github.com/rodrigocav94/EasyGrocery/assets/58222390/d96c11ed-6806-49cb-950a-2d555d4a9527
-
 
 
 
