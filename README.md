@@ -151,7 +151,7 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 
 iPad word game, inspired by the popular indie game 7 Little Words. Solve puzzles by using a series of hints and a grid of letters to form the correct words.
 
-Technologies: Anchors, Programmatic Autolayout, addTarget(), enumerated(), joined(), replacingOccurrences(), GCD
+Technologies: Anchors, Programmatic Autolayout, addTarget(), enumerated(), joined(), replacingOccurrences(), Grand Central Dispatch (GCD).
 
 https://github.com/rodrigocav94/SwiftyWords/assets/58222390/c83f2d00-c04d-4ac2-8074-d50499d84398
 
@@ -240,7 +240,7 @@ https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/196b5f87-143a-4924-
 A user-friendly app allowing easy browsing of National Severe Storms Laboratory images, enabling users to select, view and share their preferred images.
 
 
-Technologies: Table View, Image View, App Bundle, FileManager, Typecasting, View controller, Outlet, Auto Layout, UIImage, UIBarButtonItem, UIActivityViewController, GCD.
+Technologies: Table View, Image View, App Bundle, FileManager, Typecasting, View controller, Outlet, Auto Layout, UIImage, UIBarButtonItem, UIActivityViewController, Grand Central Dispatch (GCD).
 
 
 https://github.com/rodrigocav94/StormViewer/assets/58222390/1af0fa2e-7e27-483c-bfd6-a101fc62b92b
