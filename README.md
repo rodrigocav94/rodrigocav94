@@ -147,6 +147,16 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Portfolio</summary>
 
+# [NamesToFaces](https://github.com/rodrigocav94/NamesToFaces)
+
+This app simplifies remembering names by pairing them with face pictures. Whether you're a frequent traveler or struggle with recalling names, it can be a handy tool for you.
+
+Technologies: UICollectionViewController, UICollectionViewCell, UIImagePickerController, UUID, NSObject subclasses, fatalError()
+
+https://github.com/rodrigocav94/NamesToFaces/assets/58222390/fdd5bc10-fdba-4b30-8ba1-8689cc22cce8
+
+
+
 # [HangingSloth](https://github.com/rodrigocav94/HangingSloth)
 
 A classic hangman experience built with UIKit. It selects a word randomly from a list, presenting it to the user as a series of underscores. Players guess letters, with correct guesses revealing them in the word, while incorrect ones bring the sloth closer to escaping. Win by guessing the word or lose after seven incorrect guesses. Hints gradually reveal with each incorrect selection.
