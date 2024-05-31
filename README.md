@@ -146,6 +146,15 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 
 <details>
 <summary>📱 UIKit Portfolio</summary>
+ 
+# [AnimationSandbox](https://github.com/rodrigocav94/AnimationSandbox)
+
+A simple app designed for testing and running animations and transitions.<br><br>
+Technologies: UIView.animate(withDuration:), CGAffineTransform, UIView.transition.
+
+https://github.com/rodrigocav94/AnimationSandbox/assets/58222390/0200e40c-e903-4c9f-841d-a3b905fe311d
+
+
 
 # [Instafilter](https://github.com/rodrigocav94/Instafilter)
 This app allows users to select and edit photos with Core Image filters, then save the enhanced images back to their library.<br><br>
