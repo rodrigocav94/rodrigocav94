@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 <p align='center'>
-  I'm Rodrigo, an iOS Developer focused on creating SwiftUI apps.
+  I'm Rodrigo, an iOS Developer focused on creating apps with SwiftUI, UIKit and SpriteKit.
 </p>
 
 
