@@ -318,7 +318,7 @@ https://github.com/rodrigocav94/Pachinko/assets/58222390/05f8940e-016b-4787-9217
 <details>
 <summary>🗺️ MapKit Projects</summary>
  
-# CapitalCities
+# [CapitalCities](https://github.com/rodrigocav94/CapitalCities)
 CapitalCities is an app showcasing all Brazilian capitals on an interactive map. Users can explore each city, discover interesting facts, and access Wikipedia articles for more information. It's great for learning about Brazil.<br><br>
 Technologies: MKMapView, MKAnnotation, MKPinAnnotationView, CLLocationCoordinate2D, JSON, JSONDecoder, NSObject, WKWebView.
 
