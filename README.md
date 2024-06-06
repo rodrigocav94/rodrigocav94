@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 <p align='center'>
-  I'm Rodrigo, an iOS Developer focused on creating apps with SwiftUI, UIKit and SpriteKit.
+  I'm Rodrigo, an iOS Developer focused on creating apps with SwiftUI, UIKit, SpriteKit and MapKit.
 </p>
 
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <details>
-<summary>📱 SwiftUI & Combine Portfolio</summary>
+<summary>📱 SwiftUI & Combine Projects</summary>
 
 # [FriendFace](https://github.com/rodrigocav94/FriendFace)
 Um aplicativo que recebe dados da internet utilizando API Rest, decodifica e armazena os dados recebidos em um banco de dados Core Data e os exibe em detalhes.
@@ -145,7 +145,7 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 </details>
 
 <details>
-<summary>📱 UIKit Portfolio</summary>
+<summary>📱 UIKit Projects</summary>
 
 # [CountryFacts](https://github.com/rodrigocav94/CountryFacts/)
 Simple app showcasing key facts about South American countries, including their size, population, capital, and more.<br><br>
@@ -297,7 +297,7 @@ https://github.com/rodrigocav94/StormViewer/assets/58222390/37d82391-6a6f-44b5-b
 </details>
 
 <details>
-<summary>🎮 SpriteKit Portfolio</summary>
+<summary>🎮 SpriteKit Projects</summary>
 
 # [Whack-A-Peguin](https://github.com/rodrigocav94/Whack-a-Penguin/)
 
@@ -312,5 +312,16 @@ iPad game similar to "Pachinko" or "Peggle". Strategically position obstacles, t
 Technologies: SpriteKit, physics, physicsBody, SKPhysicsContactDelegate, SKEmitterNode, collisionBitMask, contactTestBitMask, SKAction, blend modes, radians, CGFloat.
 
 https://github.com/rodrigocav94/Pachinko/assets/58222390/05f8940e-016b-4787-9217-1f752f636e82
+
+</details>
+
+<details>
+<summary>🗺️ MapKit Projects</summary>
+ 
+# CapitalCities
+CapitalCities is an app showcasing all Brazilian capitals on an interactive map. Users can explore each city, discover interesting facts, and access Wikipedia articles for more information. It's great for learning about Brazil.<br><br>
+Technologies: MKMapView, MKAnnotation, MKPinAnnotationView, CLLocationCoordinate2D, JSON, JSONDecoder, NSObject, WKWebView.
+
+https://github.com/rodrigocav94/CapitalCities/assets/58222390/43d0d7f1-8be4-44bf-9dbc-f8700708a8cd
 
 </details>
