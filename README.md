@@ -302,7 +302,7 @@ https://github.com/rodrigocav94/StormViewer/assets/58222390/b02cc1ff-60bc-4115-a
 iPad survival game where you must navigate a spaceship through a field of space debris. The longer you survive, the higher your score, but staying still means inevitable doom!<br><br>
 Technologies:  SpriteKit, Timer, linearDamping, angularDamping, per pixel collision, SKEmitterNode, SKAction.sequence.
 
-https://github.com/rodrigocav94/SpaceRace/assets/58222390/c5e7335f-b5df-45d7-a561-af85d6ec50c5
+https://github.com/rodrigocav94/SpaceRace/assets/58222390/b0ae09b0-630e-401f-a1f9-c76bce5740da
 
 
 
@@ -312,6 +312,8 @@ Enjoy a whack-a-mole game on iPad with penguins and other animals. Test your ref
 Technologies: SKCropNode, SKTexture, asyncAfter(), SKAction.wait(forDuration:), SKAction.run(block:), SKAction.sequence(), SKAction.playSoundFileNamed, SKAction.moveBy.
 
 https://github.com/rodrigocav94/Whack-a-Penguin/assets/58222390/0c895386-4689-469a-849a-a8f47a0a88e6
+
+
 
  # [Pachinko](https://github.com/rodrigocav94/Pachinko/)
 iPad game similar to "Pachinko" or "Peggle". Strategically position obstacles, then release the ball to navigate through them, aiming for advantageous spots. Earn or lose points based on where the ball lands.
