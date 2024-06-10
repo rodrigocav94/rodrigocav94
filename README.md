@@ -298,6 +298,14 @@ https://github.com/rodrigocav94/StormViewer/assets/58222390/b02cc1ff-60bc-4115-a
 <details>
 <summary>🎮 SpriteKit Projects</summary>
 
+# [SpaceRace](https://github.com/rodrigocav94/SpaceRace/)
+iPad survival game where you must navigate a spaceship through a field of space debris. The longer you survive, the higher your score, but staying still means inevitable doom!<br><br>
+Technologies:  SpriteKit, Timer, linearDamping, angularDamping, per pixel collision, SKEmitterNode, SKAction.sequence.
+
+https://github.com/rodrigocav94/SpaceRace/assets/58222390/c5e7335f-b5df-45d7-a561-af85d6ec50c5
+
+
+
 # [Whack-A-Peguin](https://github.com/rodrigocav94/Whack-a-Penguin/)
 
 Enjoy a whack-a-mole game on iPad with penguins and other animals. Test your reflexes and tap on penguins to score points!<br><br>
