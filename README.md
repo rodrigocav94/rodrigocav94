@@ -289,7 +289,7 @@ https://github.com/rodrigocav94/GuessTheFlag/assets/58222390/0f88eeb8-be74-4f88-
 # [StormViewer](https://github.com/rodrigocav94/StormViewer)
 
 An app for browsing National Severe Storms Laboratory images, allowing users to easily select, view, and share their favorites. It also tracks the number of views for each image.<br><br>
-Technologies: Collection View, Image View, App Bundle, FileManager, Typecasting, View controller, Outlet, Auto Layout, UIImage, UIBarButtonItem, UIActivityViewController, Grand Central Dispatch (GCD), UserDefaults, StackView.
+Technologies: Collection View, Image View, App Bundle, FileManager, Typecasting, View controller, Outlet, Auto Layout, UIImage, UIBarButtonItem, UIActivityViewController, Grand Central Dispatch (GCD), UserDefaults, StackView, Debugging with assert() and Exception Breakpoints.
 
 https://github.com/rodrigocav94/StormViewer/assets/58222390/b02cc1ff-60bc-4115-ae6f-b2d3859d08f9
 
