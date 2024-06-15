@@ -298,7 +298,7 @@ https://github.com/rodrigocav94/StormViewer/assets/58222390/b02cc1ff-60bc-4115-a
 <details>
 <summary>🎮 SpriteKit Projects</summary>
 
-# Juicy Target
+# [JuicyTarget](https://github.com/rodrigocav94/JuicyTarget)
 JuicyTarget is a charming shooting gallery game featuring beautiful illustrations. Score points by hitting fruits and avoid insects to keep your score high. It's a cozy, stress-relief game accompanied by soothing music, perfect for relaxation. With its simple single-tap gameplay, JuicyTarget is easy to play and helps you unwind.<br><br>
 Technologies: SpriteKit, Timer, linearDamping, SKAction, SKAudioNode.
 
