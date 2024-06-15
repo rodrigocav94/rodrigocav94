@@ -298,6 +298,14 @@ https://github.com/rodrigocav94/StormViewer/assets/58222390/b02cc1ff-60bc-4115-a
 <details>
 <summary>🎮 SpriteKit Projects</summary>
 
+# Juicy Target
+JuicyTarget is a charming shooting gallery game featuring beautiful illustrations. Score points by hitting fruits and avoid insects to keep your score high. It's a cozy, stress-relief game accompanied by soothing music, perfect for relaxation. With its simple single-tap gameplay, JuicyTarget is easy to play and helps you unwind.<br><br>
+Technologies: SpriteKit, Timer, linearDamping, SKAction, SKAudioNode.
+
+https://github.com/rodrigocav94/JuicyTarget/assets/58222390/aa822497-feda-4983-8cdc-f88147e205e6
+
+
+
 # [SpaceRace](https://github.com/rodrigocav94/SpaceRace/)
 iPad survival game where you must navigate a spaceship through a field of space debris. The longer you survive, the higher your score, but staying still means inevitable doom!<br><br>
 Technologies:  SpriteKit, Timer, linearDamping, angularDamping, per pixel collision, SKEmitterNode, SKAction.sequence.
