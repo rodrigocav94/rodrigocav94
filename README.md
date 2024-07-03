@@ -147,6 +147,14 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Projects</summary>
 
+# [LocalNotifications](https://github.com/rodrigocav94/LocalNotifications/)
+This app lets users customize and schedule notifications, setting a title and message. Once triggered, users can choose to be reminded again the next day.<br><br>
+Skills: UNUserNotificationCenter, UNUserNotificationCenter.current().requestAuthorization, UNNotificationCategory, UNNotificationAction, UNTimeIntervalNotificationTrigger, UNCalendarNotificationTrigger, TextView, TextField, DatePicker, SegmentedControl, Custom Font, Sections, Header.
+
+https://github.com/rodrigocav94/LocalNotifications/assets/58222390/ec8e4c6c-8c82-4691-ac95-820c51afd08e
+
+
+
 # [JavaScriptInjection](https://github.com/rodrigocav94/JavaScriptInjection)
 A Safari extension that lets users inject custom JavaScript into web pages and save it for future use.<br><br>
 Technologies: NSExtensionItem, NSDictionary, UITextView, UITextField, Table View Sections.
