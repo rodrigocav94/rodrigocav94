@@ -147,6 +147,15 @@ Este aplicativo é umm jogo de adivinhação que ajuda o usuário a aprender a i
 <details>
 <summary>📱 UIKit Projects</summary>
 
+# [Notes](https://github.com/rodrigocav94/Notes)
+Note-taking app that closely mirrors Apple's Notes app, allowing users to browse, create, and sort notes by date or alphabetically. It's a simple yet effective tool for organizing your thoughts.<br><br>
+Skills: MVVM, JSONDecoder/Encoder, Toolbar, Sections, SearchBar, TableView, Sorting, ViewCode.
+
+
+https://github.com/user-attachments/assets/81ccdbe3-557c-4cf9-9331-bef3ca379172
+
+
+
 # [LocalNotifications](https://github.com/rodrigocav94/LocalNotifications/)
 This app lets users customize and schedule notifications, setting a title and message. Once triggered, users can choose to be reminded again the next day.<br><br>
 Skills: UNUserNotificationCenter, UNUserNotificationCenter.current().requestAuthorization, UNNotificationCategory, UNNotificationAction, UNTimeIntervalNotificationTrigger, UNCalendarNotificationTrigger, TextView, TextField, DatePicker, SegmentedControl, Custom Font, Sections, Header.
