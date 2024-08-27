@@ -3,22 +3,20 @@ rodrigocav94/rodrigocav94 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+
+<p align='center'>
+  <a href="https://apple.co/4cFxEDx">
+    <img src="https://github.com/user-attachments/assets/660b41f0-0e08-416a-b468-c0f225bc5faa" width=400/>
+  </a>
+</p>
+
+
 <h1 align='center'>
  Olá/Hello/こんにちは! 👋
 </h1>
 
 <p align='center'>
-  I'm Rodrigo, an iOS Developer focused on creating apps with SwiftUI, UIKit, SpriteKit and MapKit.
-</p>
-
-
-
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/rodrigocav94/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
+  I'm Rodrigo, an iOS Developer specializing in SwiftUI, UIKit, SpriteKit, and MapKit. I created Kapi, an app designed to help Brazilians begin learning Japanese. Check it out on the <a href="https://apple.co/4cFxEDx" target="_blank">App Store</a>!
 </p>
 
 <details>
