@@ -16,7 +16,9 @@ You can click the Preview link to take a look at your changes.
 </h1>
 
 <p align='center'>
-  I'm Rodrigo, an iOS developer blending coding expertise with design skills. I specialize in building fluid, scalable apps with pixel-perfect precision, translating design systems into reusable component libraries. I'm also the creator of Kapi, a Japanese language learning app for Portuguese speakers. Check it out on the <a href="https://apple.co/4cFxEDx" target="_blank">App Store</a>!
+  I'm an iOS developer blending coding expertise with design skills. I specialize in building fluid, scalable apps with pixel-perfect precision, translating design systems into reusable component libraries. <br>
+  I'm also the creator of Kapi, a Japanese language learning app for Portuguese speakers. <br>
+  Check it out on the <a href="https://apple.co/4cFxEDx" target="_blank">App Store</a>!
 </p>
 
 <details>
