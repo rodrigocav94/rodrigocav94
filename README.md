@@ -22,6 +22,16 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <details>
+<summary>Company Apps I Developed</summary>
+  
+| Icon | Details |
+|:---:|:---|
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6b/4f/66/6b4f665f-cdc7-f641-47fd-8d73ba0e821b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/540x540bb.jpg" width="100"> | **[‎CalPal: Calorie Counter](https://apps.apple.com/us/app/calpal-calorie-counter/id6742661534)** <br> Hit your weight goals effortlessly with a simple & powerful nutrition tracker. Track calories, macros, and see your progress with intuitive graphs and meal logging. <br><br> [**View on App Store ➔**](https://apps.apple.com/us/app/calpal-calorie-counter/id6742661534) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/ee/cb/64eecb99-daed-404e-3f81-b7eaf3d4e580/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/540x540bb.jpg" width="100"> | **[‎Spy360: Device Detector](https://apps.apple.com/us/app/spy360-device-detector/id6499339821)** <br> Take control of your privacy by detecting nearby devices through Wi-Fi, Bluetooth, and magnetic field signals to ensure your space is free from unwanted surveillance. <br><br> [**View on App Store ➔**](https://apps.apple.com/us/app/spy360-device-detector/id6499339821) |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/a6/5a/c4a65a4b-78ba-079d-84b2-ab088b0e1f76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/540x540bb.jpg" width="100"> | **[NeuroLup by ReLup](https://apps.apple.com/us/app/neurolup/id6445998683)** <br> A platform that collects and assesses digital biomarkers related to cognitive health through a series of fun brain games that can be completed in under 15 minutes. <br><br> [**View on App Store ➔**](https://apps.apple.com/us/app/neurolup/id6445998683) |
+</details>
+
+<details>
 <summary>📱 SwiftUI & Combine Projects</summary>
 
 # [FriendFace](https://github.com/rodrigocav94/FriendFace)
