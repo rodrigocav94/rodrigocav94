@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <details>
-<summary>Company Apps I Developed</summary>
+<summary>🏢 Company Apps I Developed</summary>
   
 | Icon | Details |
 |:---:|:---|
